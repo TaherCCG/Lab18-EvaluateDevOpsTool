@@ -41,12 +41,12 @@ Following are the important features of Nagios monitoring tool:
 - Good log and database system
 - Informative and attractive web interfaces
 - Automatically send alerts if condition changes
-- If the services are running fine, then there is no need to do check that host is an alive
+- If the services are running fine, then there is no need to do checks that host is alive
 - Helps you to detect network errors or server crashes
 - You can troubleshoot the performance issues of the server.
 - The issues, if any, can be fixed automatically as they are identified during the monitoring process
 - You can monitor the entire business process and IT infrastructure with a single pass
-- The product’s architecture is easy writing new plugins in the language of your choice
+- The product's architecture makes it easy to write new plugins in the language of your choice
 - Nagios allows you to read its configuration from an entire directory which helps you to decide how to define individual files
 - Utilizes topology to determine dependencies
 - Monitor network services like HTTP, SMTP, HTTP, SNMP, FTP, SSH, POP, etc.
