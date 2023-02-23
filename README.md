@@ -1,5 +1,8 @@
-![ alt](Logo.png"Nagios Logo")
+<div align="center">
 
+![ Nagios Logo](https://github.com/TaherCCG/Lab18-EvaluateDevOpsTool/blob/main/Logo.png)
+
+</div>
 
 <h1 align="center"> Nagios </h1>
 
@@ -9,13 +12,15 @@
 *Nagios is used for continuous monitoring of systems, applications, service and business process in a DevOps culture.*
 
 
-![ alt](devops.jpeg"Nagios DevOps")
-
-
-
 ## What is Continuous Monitoring?
 
 <p>Continuous monitoring is a process to detect, report, respond all the attacks which occur in its infrastructure. Once the application is deployed into the server, the role of continuous monitoring comes in to play. The entire process is all about taking care of the company’s infrastructure and respond appropriately.</p>
+
+<div align="center">
+
+![ Nagios DevOps](https://github.com/TaherCCG/Lab18-EvaluateDevOpsTool/blob/main/devops.jpeg)
+
+</div>
 
 ## Why We Need Nagios tool?
 Here are the important reasons to use Nagios monitoring tool:
